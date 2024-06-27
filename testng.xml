@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="VXengageAutomationSuite" verbose="1">
+    <listeners>
+        <listener class-name="org.engage.CommonUtilities.RetryTransformListener"/>
+    </listeners>
+    <test name="UIAutomation">
+        <classes>
+            <class name="org.engage.TestCases.RegistrationBaseTest"/>
+            <class name="org.engage.TestCases.LoginPageBaseTest"/>
+            <class name="org.engage.TestCases.ForgotPasswordPageBaseTest"/>
+            <class name="org.engage.TestCases.ForgotUsernamePageBaseTest"/>
+            <class name="org.engage.TestCases.HomePageBaseTest"/>
+            <class name="org.engage.TestCases.BillingAndUsageHistoryPageTest"/>
+            <class name="org.engage.TestCases.AccountSummaryDropDownTest"/>
+            <class name="org.engage.TestCases.DocumentsBaseTest"/>
+            <class name="org.engage.TestCases.InboxTest"/>
+            <class name="org.engage.TestCases.InboxPageTest"/>
+            <class name="org.engage.TestCases.SentItemsPageTest"/>
+            <class name="org.engage.TestCases.ComposeMessageBaseTest"/>
+            <class name="org.engage.TestCases.ContactInformationPageTest"/>
+            <class name="org.engage.TestCases.ChangePasswordPageTest"/>
+            <class name="org.engage.TestCases.BillingDeliveryPreferenceTest"/>
+            <class name="org.engage.TestCases.AccountSettingPageTest"/>
+            <class name="org.engage.TestCases_Phase_2.StartServiceResidentialPageTest"/>
+          </classes>
+    </test>
+</suite>

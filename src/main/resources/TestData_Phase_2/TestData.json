@@ -1,0 +1,52 @@
+{
+  "startServiceResidentialPage": {
+    "header": "Start Service",
+    "subTitleHeader": "Start a new service account",
+    "step_1PageHeader": "Requested Service Address",
+    "bannerVerbiage": "You must be the primary account holder to transfer, terminate, or start service for this account. This form is for residential and commercial accounts only. For new construction or multi-unit sites, please contact us instead at 1-800-555-1213 .",
+    "accountTypesDropDown": "Commercial,Residential",
+    "streetNameVerbiage": "Examples include Preston (for Preston Road), or 13th (for 13th Street)",
+    "invalidDataErrorMsg": "Invalid address provided. Please correct.",
+    "reqMessage": "Required field",
+    "verifyYourAddressHeader": "Verify Your Address",
+    "verifyYourAddressVerbiage": "Below are the address(es) that are the closest match to the address you entered. If your address is not listed please try again with different search criteria and be more specific about the service address, i.e,add an apartment number, mobile home lot number, suite number, etc.",
+    "addressVerifiaction": "3493 112TH PL , PORTLAND , OR , 97229",
+    "step_2Header": "Primary Account Holder",
+    "socialSecurityVerbiageStep_2": "Please enter the last four digits only.",
+    "driverLicenseStateDDStep_2": "Alabama (AL),Alaska (AK),American Samoa (AS),Arizona (AZ),Arkansas (AR),California (CA),Colorado (CO),Connecticut (CT),Delaware (DE),District Of Columbia (DC),Federated States Of Micronesia (FM),Florida (FL),Georgia (GA),Guam (GU),Hawaii (HI),Idaho (ID),Illinois (IL),Indiana (IN),Iowa (IA),Kansas (KS),Kentucky (KY),Louisiana (LA),Maine (ME),Marshall Islands (MH),Maryland (MD),Massachusetts (MA),Michigan (MI),Minnesota (MN),Mississippi (MS),Missouri (MO),Montana (MT),Nebraska (NE),Nevada (NV),New Hampshire (NH),New Jersey (NJ),New Mexico (NM),New York (NY),North Carolina (NC),North Dakota (ND),Northern Mariana Islands (MP),Ohio (OH),Oklahoma (OK),Oregon (OR),Palau (PW),Pennsylvania (PA),Puerto Rico (PR),Rhode Island (RI),South Carolina (SC),South Dakota (SD),Tennessee (TN),Texas (TX),Utah (UT),Vermont (VT),Virgin Islands (VI),Virginia (VA),Washington (WA),West Virginia (WV),Wisconsin (WI),Wyoming (WY)",
+    "phoneNumberStep_2": "1234567890",
+    "dateOfBirthStep_2": "12-May-2006",
+    "pageHeaderStep_3": "Mailing Address",
+    "invalidEmail": "invalid@com",
+    "invalidEmailErrorMsg": "Please enter a valid email address.",
+    "invalidPhoneNumber": "Please enter a valid phone number.",
+    "invalidPhoneNo": "1111111111"
+  },
+  "InvalidDataStartServiceResidentialPageStep_1": {
+    "houseNo": "1234",
+    "streetName": "100TH",
+    "city": "PORTLND",
+    "zipCode": "123456789",
+    "stateType": "Alabama (AL)"
+  },
+  "validDataStartServiceResidentialStep_1": {
+    "AccountType": "Residential",
+    "houseNo": "3493",
+    "streetName": "112TH",
+    "city": "PORTLAND",
+    "zipCode": "97229",
+    "stateType": "Oregon (OR)"
+  },
+  "validDataStartServiceResidentialStep_2": {
+    "firstNameStep_2": "GEORGE",
+    "lastNameStep_2": "TURNER JR",
+    "socialSecurityNumberStep_2": "123411111",
+    "driverLicenseStep_2": "Test111",
+    "phoneNumberStep_2": "9876543210",
+    "emailAddressStep_2": "nandha.kumar@vertexone.net",
+    "stateTypeStep_2": "Alabama (AL)"
+
+
+  }
+
+}

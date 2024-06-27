@@ -1,0 +1,81 @@
+{
+  "applicationURL": "https://hope-sit.vertexone.app/",
+  "validCredentials": [
+    {
+      "username": "customer",
+      "password": "VmVydGV4MTIzNDU2IQ=="
+    }
+  ],
+  "invalidCredentials": [
+    {
+      "invalidUserName": "customer3",
+      "validPassword": "VmVydGV4MTIzNDU2IQ=="
+    },
+    {
+      "ValidUsername": "customer",
+      "InvalidPassword": "VmVydGV4MTIzMzQ1NjMh"
+    },
+    {
+      "InvalidUsername": "customer5",
+      "InvalidPassword": "VmVydGV4MTIzMzQ1NjMh"
+    }
+  ],
+  "errorMessagesLoginPage":
+  {
+    "invalidCredentialsErrorMessage": "Your username and/or password is incorrect. Please try again."
+  },
+  "errorMessagesRegistrationPage":
+  {
+    "registrationFormErrorMessage": "Please correct the error(s) below.",
+    "errorMessage": "Required field",
+    "accountNumberText" : "Your account number can be found on the upper right side of your bill.",
+    "usernameHelpText": "Username must be 5 to 30 characters. It can consist of a combination of letters and numbers, or the following characters ^.$#@-_.",
+    "passwordHelpText" : "Must be 8 to 30 characters with at least one: lowercase letter, uppercase letter, and number. May also include the following characters: !.#%&*.",
+    "invalidUserNameError":  "Invalid username.",
+    "invalidEmailAddress": "Invalid email address.",
+    "invalidConfirmEmailCombination": "Confirmation value does not match",
+    "passwordCriteriaMessage": "Password does not meet minimum requirements.",
+    "confirmPasswordCombinationMessage": "Confirmation value does not match",
+    "dataMismatchWithCISMessage": "Information provided does not match our records, please try again.",
+    "personalInfoMandatoryMessage": "Please enter driver's license number or last 4 of social security number or street number.",
+    "existingUsernameMessage": "The username already exists. Please enter another."
+  },
+"testDataRegistrationPage":
+{
+  "accountNumericValue": "777890987",
+  "specialChar" : "@#$!$!_-&&",
+  "userNameValue3Char" : "ABC",
+  "userNameValue35Char" : "ThisIsALooongStringWith35Characters",
+  "nameFieldValue52Chars": "ThisIsALongStringWith45CharactersToValidateFirstName",
+  "nameFieldSpecialChars": "!@#$%^&*()_+",
+  "invalidEmail": "invalid@com",
+  "invalidConfirmEmail": "invalid@gmail.com",
+  "invalidPassword": "Test@123",
+  "invalidConfirmPassword": "Test!123",
+  "invalidSSN": "122345",
+  "invalidDriverLicense": "ABCDEFGH1234567890@",
+  "invalidServiceAddress": "ABC1234!@#09A12",
+  "validSSN": "6789",
+  "existingUsername": "ksingh"
+},
+  "assertURLs": {
+    "termAndConditionsURL": "https://www.vertexone.net/Terms-of-use",
+    "privacyPolicyURL" : "https://www.vertexone.net/privacy-policy",
+    "loginURL": "https://vxengage-vtx-sit.vertexone.app/Login"
+  },
+  "validRequiredFieldDataForRegistration":
+{
+   "accountNumber": "23877",
+   "firstName": "Emily",
+   "lastName": "TRUAX",
+   "email": "balwant.singh@vertexone.net",
+   "ssNo": "6789",
+   "driverLicense": "123456789",
+   "houseNumber": "4420",
+   "password": "Password#123"
+}
+}
+
+
+
+

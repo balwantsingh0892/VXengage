@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6199f57-d534-4077-a03d-573266ff1d6b" name="Changes" comment="Commited from Master origin" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2WcrfVVoEkxlvdRtDp8AvhrHE9g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Maven.VXengage [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.VXengage [compile].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.AccountSettingPageTest.verifyAddAnAccountCommercial.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.AccountSettingPageTest.verifyAddAnAccountResidential.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.AccountSettingPageTest.verifyRemoveAccount.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.AccountSummaryDropDownTest.verifyAllLinksInDropDown.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BillingAndUsageHistoryPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/svplap0054/Desktop/GIT_New/Test_Automation/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactInformationPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyCanadaPOBoxAddress.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyCanadaPhysicalAddress.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyEmailAddressHappyFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyMailingAddressCanadaPOAddressHappyFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyMailingAddressCanadaPostalAddressHappyFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyMailingAddressElements.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyMailingAddressUSAPhysicalAddressHappyFlow.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyPhoneNumberFields.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.ContactInformationPageTest.verifyUSAPhysicalAddress.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.HomePageBaseTest.footerIconsVerification.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InboxPageTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InboxPageTest.verifyAllElementsInInboxReplyPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InboxPageTest.verifyAllElementsInSentItemsReplyPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InboxPageTest.verifyDetailsValidationInInboxPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InboxPageTest.verifyElementsInInboxPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InboxPageTest.verifyElementsInSentItemsReplyPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InboxPageTest.verifyShowRepliesInInboxPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.InboxPageTest.verifyShowRepliesInSentItemsPage.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/Test_Automation/src/test/java/org/engage/TestBase&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Test_Automation/src/main/resources/TestData_Phase_2&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Test_Automation\src\main\resources\TestData_Phase_2" />
+      <recent name="D:\Test_Automation\src\main\resources\TestFiles" />
+      <recent name="D:\Test_Automation\src\main\resources\TestData" />
+      <recent name="D:\Test_Automation\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Test_Automation\src\main\resources\UILocators_Phase_2" />
+      <recent name="D:\Test_Automation\src\main\java\org\engage\POM" />
+      <recent name="D:\Test_Automation\src\main\resources" />
+      <recent name="D:\Test_Automation\src\test\resources\TestFiles" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.engage.Database" />
+      <recent name="org.engage.TestCases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.ContactInformationPageTest.verifyCanadaPOBoxAddress">
+    <configuration name="BillingAndUsageHistoryPageTest.detailedValidationBillingMeter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VXengage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.engage.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.engage.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="org.engage.TestCases.BillingAndUsageHistoryPageTest" />
+      <option name="METHOD_NAME" value="detailedValidationBillingMeter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactInformationPageTest.verifyCanadaPOBoxAddress" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VXengage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.engage.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.engage.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="org.engage.TestCases.ContactInformationPageTest" />
+      <option name="METHOD_NAME" value="verifyCanadaPOBoxAddress" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactInformationPageTest.verifyCanadaPhysicalAddress" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VXengage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.engage.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.engage.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="org.engage.TestCases.ContactInformationPageTest" />
+      <option name="METHOD_NAME" value="verifyCanadaPhysicalAddress" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactInformationPageTest.verifyMailingAddressElements" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VXengage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.engage.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.engage.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="org.engage.TestCases.ContactInformationPageTest" />
+      <option name="METHOD_NAME" value="verifyMailingAddressElements" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactInformationPageTest.verifyUSAPhysicalAddress" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="VXengage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.engage.TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.engage.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="org.engage.TestCases.ContactInformationPageTest" />
+      <option name="METHOD_NAME" value="verifyUSAPhysicalAddress" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.BillingAndUsageHistoryPageTest.detailedValidationBillingMeter" />
+      <item itemvalue="TestNG.ContactInformationPageTest.verifyCanadaPOBoxAddress" />
+      <item itemvalue="TestNG.ContactInformationPageTest.verifyMailingAddressElements" />
+      <item itemvalue="TestNG.ContactInformationPageTest.verifyUSAPhysicalAddress" />
+      <item itemvalue="TestNG.ContactInformationPageTest.verifyCanadaPhysicalAddress" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ContactInformationPageTest.verifyCanadaPOBoxAddress" />
+        <item itemvalue="TestNG.ContactInformationPageTest.verifyUSAPhysicalAddress" />
+        <item itemvalue="TestNG.BillingAndUsageHistoryPageTest.detailedValidationBillingMeter" />
+        <item itemvalue="TestNG.ContactInformationPageTest.verifyMailingAddressElements" />
+        <item itemvalue="TestNG.ContactInformationPageTest.verifyCanadaPhysicalAddress" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6199f57-d534-4077-a03d-573266ff1d6b" name="Changes" comment="" />
+      <created>1697042816071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697042816071</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commited from Master origin">
+      <option name="closed" value="true" />
+      <created>1698071669992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698071669992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commited from Master origin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commited from Master origin" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/engage/POM/BillingDeliveryPreferencePagePOM.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/engage/POM/LoginPagePOM.java</url>
+          <line>184</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/engage/POM/AccountSettingPagePOM.java</url>
+          <line>344</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/engage/POM/HomePagePOM.java</url>
+          <line>476</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/engage/TestCases/ContactInformationPageTest.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/engage/TestCases/ContactInformationPageTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="484" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/engage/POM/HomePagePOM.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/engage/POM/DocumentsPagePOM.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="486" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/engage/TestCases/DocumentsBaseTest.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/engage/TestCases/HomePageBaseTest.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="496" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/engage/TestCases/ForgotPasswordPageBaseTest.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="498" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/engage/TestCases/BillingAndUsageHistoryPageTest.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="504" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/engage/TestCases/BillingAndUsageHistoryPageTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="505" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
